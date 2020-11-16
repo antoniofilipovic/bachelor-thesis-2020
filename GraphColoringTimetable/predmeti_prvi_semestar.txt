@@ -1,0 +1,6 @@
+Digitalna logika;6;183360;1
+Linearna algebra;5;183355;1
+Matematička analiza 1;8;183352;1
+Uvod u programiranje;7;183357;1
+Transverzalni predmeti
+Vještine komuniciranja;4;183353;1

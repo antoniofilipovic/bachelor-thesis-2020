@@ -1,0 +1,20 @@
+\BOOKMARK [0][-]{chapter.1}{Uvod}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Teorijski uvod}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Teorija grafova}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Bojanje grafova}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{NP potpuni algoritam}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Model ispita}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.4.1}{Raspored ispita na FER-u}{section.2.4}% 7
+\BOOKMARK [2][-]{subsection.2.4.2}{Slicnosti i razlike modela na FER-u i na\235eg modela}{section.2.4}% 8
+\BOOKMARK [0][-]{chapter.3}{Programska implementacija}{}% 9
+\BOOKMARK [1][-]{section.3.1}{Simulacija studenata}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.1.1}{Opis objektnog modela studenta}{section.3.1}% 11
+\BOOKMARK [2][-]{subsection.3.1.2}{Simulacija podataka}{section.3.1}% 12
+\BOOKMARK [1][-]{section.3.2}{Simulacija predmeta}{chapter.3}% 13
+\BOOKMARK [2][-]{subsection.3.2.1}{Opis objektnog modela predmeta}{section.3.2}% 14
+\BOOKMARK [2][-]{subsection.3.2.2}{Simulacija podataka}{section.3.2}% 15
+\BOOKMARK [1][-]{section.3.3}{Opis objektnog modela predmeta}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.3.1}{Opis studenata}{section.3.3}% 17
+\BOOKMARK [2][-]{subsection.3.3.2}{Simulacija podataka}{section.3.3}% 18
+\BOOKMARK [0][-]{chapter.4}{Zakljucak}{}% 19
+\BOOKMARK [0][-]{chapter*.6}{Literatura}{}% 20

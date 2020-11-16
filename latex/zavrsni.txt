@@ -1,0 +1,14 @@
+Zavrsni rad plan
+-popravit kod()
+
+
+-napisat_uvod_u_temu()
+-napisat_programsku_implementaciju()
+
+
+popravit_kod():{
+	-omoguci_pokretanje_istog_vise_puta()
+	-omoguci_razlicite_nacine_biranja_termina()
+	-dodaj_jos_jednu_implementaciju_bojanja_grafa()
+	
+}

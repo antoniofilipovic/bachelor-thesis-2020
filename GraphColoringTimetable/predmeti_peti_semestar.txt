@@ -1,0 +1,44 @@
+Prevođenje programskih jezika;5;183425;1
+Programsko inženjerstvo;5;183400;1
+Projekt R;8;183457;0
+Izborni predmeti
+#Alati za razvoj digitalnih sustava;5;183417;1
+Arhitektura računala 2;5;183428;1
+#Audio elektronika;5;183414;1
+#Buka i vibracije u okolišu;5;183413;1
+#Digitalni video;5;183460;1
+#Električna rasvjeta;5;183446;1
+#Elektroakustika 1;5;183430;1
+#Elektroenergetski sustavi 1;5;183432;1
+#Elektronički sustavi;5;183435;1
+#Elementi sustava automatizacije;5;183439;1
+Informacija, logika i jezici;5;183450;1
+Interaktivni simulacijski sustavi;5;183366;1
+Kvantna računala;5;183402;1
+Mikro i nano elektronički elementi;5;183441;1
+Moderne metode fizike u elektrotehnici, informaciji i računarstvu;5;183403;1
+Numerička matematika;5;183445;1
+Obrada informacija;5;183369;1
+#Odabrana poglavlja razvoja programske potpore 1;5;183370;1
+#Osnove elektronike;5;183373;1
+#Osnove energetske elektronike;5;183449;1
+#Osnove fizike plazme;5;183406;1
+#Osnove mehatronike;5;183375;1
+#Osnove nuklearne fizike;5;183408;1
+Osnove obradbe signala;5;183447;1
+Otvoreno računarstvo;5;183451;1
+#Paralelizam i konkurentnost;5;183376;1
+#Praktikum elektroničkih elemenata i sklopova;5;183379;1
+#Praktikum robotike;5;183383;1
+#Primjena elektromagnetskih valova u inženjerstvu;5;183453;1
+#Razvoj primijenjene programske potpore;5;183385;1
+#Statistička analiza podataka;5;183454;1
+#Tehnička normizacija i legislativa;5;183388;1
+#Tehnološke osnove iskorištavanja obnovljivih izvora energije;5;183390;1
+#Umrežene višemedijske usluge;5;183398;1
+#Uvod u molekularnu biologiju i genetiku;5;183410;1
+Transverzalni predmeti
+Inženjerska ekonomika 1;2;183404;1
+Okoliš, održivi razvoj i ublažavanje klimatskih promjena;2;183409;1
+Umjetnost novih medija;2;183407;1
+Upravljanje znanjem;2;183382;1

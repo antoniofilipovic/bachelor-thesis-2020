@@ -1,0 +1,9 @@
+Algoritmi i strukture podataka;6;183381;1
+Arhitektura računala 1R;6;183393;1
+Diskretna matematika 1;6;183396;1
+Teorija informacije;4;183387;1
+Vjerojatnost i statistika;6;183401;1
+Transverzalni predmeti
+Inženjerska ekonomika 1;2;183404;1
+Okoliš, održivi razvoj i ublažavanje klimatskih promjena;2;183409;1
+Umjetnost novih medija;2;183407;1

@@ -1,0 +1,19 @@
+\babel@toc {croatian}{}
+\contentsline {chapter}{\numberline {1}Uvod}{1}% 
+\contentsline {chapter}{\numberline {2}Teorijski uvod}{3}% 
+\contentsline {section}{\numberline {2.1}Teorija grafova}{3}% 
+\contentsline {section}{\numberline {2.2}Bojanje grafova}{6}% 
+\contentsline {section}{\numberline {2.3}NP potpuni algoritam}{8}% 
+\contentsline {section}{\numberline {2.4}Model ispita}{10}% 
+\contentsline {section}{\numberline {2.5}Problematika bojanja grafova kod izrade rasporeda}{12}% 
+\contentsline {chapter}{\numberline {3}Programska implementacija}{13}% 
+\contentsline {section}{\numberline {3.1}Simulacija podataka}{13}% 
+\contentsline {section}{\numberline {3.2}Algoritam bojanja grafova}{16}% 
+\contentsline {section}{\numberline {3.3}Aplikacija}{22}% 
+\contentsline {section}{\numberline {3.4}Rezultati}{23}% 
+\contentsline {subsection}{\numberline {3.4.1}Rezultati bojanja vrhova grafa}{23}% 
+\contentsline {subsection}{\numberline {3.4.2}Rezultati metode minimalnog presjeka}{25}% 
+\contentsline {subsection}{\numberline {3.4.3}Rezultati metode razdvajanja predmeta iste godine}{26}% 
+\contentsline {subsection}{\numberline {3.4.4}Usporedba rezultata i nadogradanja algoritma}{28}% 
+\contentsline {chapter}{\numberline {4}Zaključak}{29}% 
+\contentsline {chapter}{Literatura}{30}% 

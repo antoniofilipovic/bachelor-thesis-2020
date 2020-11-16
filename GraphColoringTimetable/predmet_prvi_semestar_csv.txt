@@ -1,0 +1,5 @@
+Digitalna logika;6;183360;1;regularni
+Linearna algebra;5;183355;1;regularni
+Matematička analiza 1;8;183352;1;regularni
+Uvod u programiranje;7;183357;1;regularni
+Vještine komuniciranja;4;183353;1;transverzalni
